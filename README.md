@@ -1,7 +1,7 @@
-# React-reading-list
+# React Reading List
 
 #### Description
-This readin list is built based on ReactJs that allows to save & delete books of interest.
+This reading list app is built based on ReactJs that allows to save & delete books of interest.
 
 #### Technologies
 * ReactJs
