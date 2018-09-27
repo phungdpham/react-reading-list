@@ -1,6 +1,9 @@
-# react-reading-list
+# React-reading-list
 
-## Technologies
+#### Description
+This readin list is built based on ReactJs that allows to save & delete books of interest.
+
+#### Technologies
 * ReactJs
 * MongoDB
 * NodeJs
